@@ -1,0 +1,11 @@
+{
+  "name": "go-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd go/go-web && go run main.go"
+  },
+  "repository": "https://github.com/qiuChengleiy/go-notes.git",
+  "author": "qiuchenglei <qiuchengleiy@qq.com>",
+  "license": "MIT"
+}
